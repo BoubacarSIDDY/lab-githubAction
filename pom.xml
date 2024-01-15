@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.groupeisi</groupId>
-	<artifactId>lab-githubAction</artifactId>
+	<artifactId>lab-githubaction</artifactId>
 	<version>0.0.1</version>
 	<name>demo</name>
 	<description>Demo project Spring boot using github action to automate, customize and execute our project</description>
